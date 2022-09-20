@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="329845d7-e63e-4af7-b4e6-5a2188fce655" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sphinx/source/usage/tips.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/source/index.rst" afterDir="false" />
-    </list>
+    <list default="true" id="329845d7-e63e-4af7-b4e6-5a2188fce655" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659015813137</updated>
-      <workItem from="1663654828927" duration="1072000" />
+      <workItem from="1663654828927" duration="1620000" />
     </task>
     <servers />
   </component>
