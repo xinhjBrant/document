@@ -49,19 +49,6 @@ For example:
 
 thisis\ *one*\ word
 
-:rolename:`content`
-
-:durole:`emphasis` – 写成 *emphasis*
-
-:durole:`strong` – 写成 **strong**
-
-:durole:`literal` – 写成 ``literal``
-
-:durole:`subscript` – 下标
-
-:durole:`superscript` – 上标
-
-:durole:`title-reference` – 书、期刊等材料的标题
 
 * 这是一个项目符号列表.
 * 它有两项，
@@ -126,8 +113,6 @@ True   True   True
 =====  =====  =======
 
 使用 `链接文本 <http://example.com/>`_ 可以插入网页链接.
-
-:duref:`ref <hyperlink-targets>`)
 
 段落里包含 `a link`_.
 
